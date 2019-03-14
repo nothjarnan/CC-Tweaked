@@ -39,8 +39,8 @@ upgrade.minecraft:crafting_table.adjective=Händig
 upgrade.computercraft:advanced_modem.adjective=Ender
 upgrade.computercraft:speaker.adjective=Högljudd
 
-gui.computercraft:wired_modem.peripheral_connected=Kringutrustning "%s" kopplad till nätverket
-gui.computercraft:wired_modem.peripheral_disconnected=Kringutrustning "%s" avkopplad från nätverket
+gui.computercraft:wired_modem.peripheral_connected=Kringutrustning "%s" är kopplad till nätverket
+gui.computercraft:wired_modem.peripheral_disconnected=Kringutrustning "%s" är frånkopplad från nätverket
 
 gui.computercraft:tooltip.copy=Kopiera till urklipp
 
